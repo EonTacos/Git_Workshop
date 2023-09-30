@@ -1,0 +1,4 @@
+$ echo print("Hello, Welcome to Git_Workshop Date: 29/09/2023") > Squad1_Bingo.py
+$ git add Squad_Bingo1.py
+$ git commit -m "Comments to commit: First file to commit from Squad 1"
+
